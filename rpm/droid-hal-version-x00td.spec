@@ -3,6 +3,9 @@
 %define device X00TD
 %define vendor asus
 
+%define rpm_device x00td
+%define rpm_vendor asus
+
 # Manufacturer and device name to be shown in UI
 %define vendor_pretty Zenfone
 %define device_pretty MAX PRO M1
